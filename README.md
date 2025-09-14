@@ -1,8 +1,7 @@
 
-# 🏡 House Price Prediction – Codveda Internship Task 2
+# 🏡 House Price Prediction 
 
-This project was completed as **Task 2** under the **Codveda Machine Learning Internship**.  
-The goal is to build a **regression model** to predict house prices based on various features such as area, number of bedrooms, availability of amenities, and more.
+In this project the goal is to build a **regression model** to predict house prices based on various features such as area, number of bedrooms, availability of amenities, and more.
 
 ---
 
@@ -65,6 +64,4 @@ Given a housing dataset, build a machine learning model to **predict house price
 
 ---
 
-## 🔖 Tags
 
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda #MachineLearning #HousePricePrediction #Regression #MLInternship
